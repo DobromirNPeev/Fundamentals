@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.exe
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.deps.json
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.dll
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\bin\Debug\netcoreapp3.1\11. 5 Different Numbers.pdb
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.dll
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.pdb
+E:\VIsual Studio\Fundamentals\11. 5 Different Numbers\obj\Debug\netcoreapp3.1\11. 5 Different Numbers.genruntimeconfig.cache

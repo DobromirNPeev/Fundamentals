@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\bin\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\02. Destination Mapper\obj\Debug\netcoreapp3.1\02. Destination Mapper.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.exe
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.deps.json
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.dll
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\bin\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.dll
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.pdb
+E:\VIsual Studio\Fundamentals\07. NxN Matrix\obj\Debug\netcoreapp3.1\07. NxN Matrix.genruntimeconfig.cache

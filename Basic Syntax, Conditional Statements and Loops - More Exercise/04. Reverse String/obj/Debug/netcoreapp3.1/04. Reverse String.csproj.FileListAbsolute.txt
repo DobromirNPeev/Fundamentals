@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.exe
+E:\VIsual Studio\Fundamentals\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.deps.json
+E:\VIsual Studio\Fundamentals\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.dll
+E:\VIsual Studio\Fundamentals\04. Reverse String\bin\Debug\netcoreapp3.1\04. Reverse String.pdb
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.dll
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.pdb
+E:\VIsual Studio\Fundamentals\04. Reverse String\obj\Debug\netcoreapp3.1\04. Reverse String.genruntimeconfig.cache

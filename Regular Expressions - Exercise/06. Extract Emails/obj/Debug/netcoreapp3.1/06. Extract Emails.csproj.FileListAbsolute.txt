@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.exe
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\bin\Debug\netcoreapp3.1\06. Extract Emails.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\06. Extract Emails\obj\Debug\netcoreapp3.1\06. Extract Emails.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.exe
+E:\VIsual Studio\Fundamentals\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.deps.json
+E:\VIsual Studio\Fundamentals\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.dll
+E:\VIsual Studio\Fundamentals\06. Middle Characters\bin\Debug\netcoreapp3.1\06. Middle Characters.pdb
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.dll
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.pdb
+E:\VIsual Studio\Fundamentals\06. Middle Characters\obj\Debug\netcoreapp3.1\06. Middle Characters.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\bin\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 3 - Heroes of Code and Logic VII\obj\Debug\netcoreapp3.1\Problem 3 - Heroes of Code and Logic VII.genruntimeconfig.cache

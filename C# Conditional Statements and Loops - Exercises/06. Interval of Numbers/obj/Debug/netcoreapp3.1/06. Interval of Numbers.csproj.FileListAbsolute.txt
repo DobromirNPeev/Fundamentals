@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.exe
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.deps.json
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.dll
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\bin\Debug\netcoreapp3.1\06. Interval of Numbers.pdb
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.dll
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.pdb
+E:\VIsual Studio\Fundamentals\06. Interval of Numbers\obj\Debug\netcoreapp3.1\06. Interval of Numbers.genruntimeconfig.cache

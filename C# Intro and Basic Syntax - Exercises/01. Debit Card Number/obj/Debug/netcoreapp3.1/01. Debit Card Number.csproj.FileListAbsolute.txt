@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\bin\Debug\netcoreapp3.1\01. Debit Card Number.exe
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\bin\Debug\netcoreapp3.1\01. Debit Card Number.deps.json
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\bin\Debug\netcoreapp3.1\01. Debit Card Number.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\bin\Debug\netcoreapp3.1\01. Debit Card Number.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\bin\Debug\netcoreapp3.1\01. Debit Card Number.dll
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\bin\Debug\netcoreapp3.1\01. Debit Card Number.pdb
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.dll
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.pdb
+E:\VIsual Studio\Fundamentals\01. Debit Card Number\obj\Debug\netcoreapp3.1\01. Debit Card Number.genruntimeconfig.cache

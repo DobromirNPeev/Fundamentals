@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6Yf5SuqzJhIguVMhjoO26FEh3SxFXy9zKndvhQWT6t1OZG3KkEkDHPmSaRWW2rUwzh5xaRpRN9vEjYSuiThJmw==",
+  "success": true,
+  "projectFilePath": "D:\\VIsual Studio Assignments (softuni)\\Fundamentals\\Regular Expressions - Lab\\03. Match Dates\\03. Match Dates.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dobot\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dobot\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\dobot\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\dobot\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

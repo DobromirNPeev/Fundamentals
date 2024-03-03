@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.exe
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.deps.json
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.dll
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\bin\Debug\netcoreapp3.1\03. Merging Lists.pdb
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.dll
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.pdb
+E:\VIsual Studio\Fundamentals\Lists\03. Merging Lists\obj\Debug\netcoreapp3.1\03. Merging Lists.genruntimeconfig.cache

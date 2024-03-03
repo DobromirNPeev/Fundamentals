@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.exe
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.deps.json
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\bin\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.dll
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.pdb
+E:\VIsual Studio\Fundamentals\09. Spice Must Flow\obj\Debug\netcoreapp3.1\09. Spice Must Flow.genruntimeconfig.cache

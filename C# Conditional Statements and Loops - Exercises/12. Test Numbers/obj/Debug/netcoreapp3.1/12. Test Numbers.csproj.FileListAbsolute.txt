@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.exe
+E:\VIsual Studio\Fundamentals\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.deps.json
+E:\VIsual Studio\Fundamentals\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.dll
+E:\VIsual Studio\Fundamentals\12. Test Numbers\bin\Debug\netcoreapp3.1\12. Test Numbers.pdb
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.dll
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.pdb
+E:\VIsual Studio\Fundamentals\12. Test Numbers\obj\Debug\netcoreapp3.1\12. Test Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.exe
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.deps.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\bin\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\08. Anonymous Threat\obj\Debug\netcoreapp3.1\08. Anonymous Threat.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.exe
+E:\VIsual Studio\Fundamentals\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.deps.json
+E:\VIsual Studio\Fundamentals\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.dll
+E:\VIsual Studio\Fundamentals\01. Student Information\bin\Debug\netcoreapp3.1\01. Student Information.pdb
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.dll
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.pdb
+E:\VIsual Studio\Fundamentals\01. Student Information\obj\Debug\netcoreapp3.1\01. Student Information.genruntimeconfig.cache

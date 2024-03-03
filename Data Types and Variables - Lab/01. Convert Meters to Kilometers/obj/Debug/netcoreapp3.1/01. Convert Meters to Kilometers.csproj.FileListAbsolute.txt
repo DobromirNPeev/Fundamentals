@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.exe
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.deps.json
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\bin\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.dll
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.pdb
+E:\VIsual Studio\Fundamentals\01. Convert Meters to Kilometers\obj\Debug\netcoreapp3.1\01. Convert Meters to Kilometers.genruntimeconfig.cache

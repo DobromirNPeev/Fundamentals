@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.exe
+E:\VIsual Studio\Fundamentals\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.deps.json
+E:\VIsual Studio\Fundamentals\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.dll
+E:\VIsual Studio\Fundamentals\04. Array Rotation\bin\Debug\netcoreapp3.1\04. Array Rotation.pdb
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.dll
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.pdb
+E:\VIsual Studio\Fundamentals\04. Array Rotation\obj\Debug\netcoreapp3.1\04. Array Rotation.genruntimeconfig.cache

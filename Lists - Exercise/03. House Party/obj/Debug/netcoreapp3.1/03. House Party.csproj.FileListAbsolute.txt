@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.exe
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.deps.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\bin\Debug\netcoreapp3.1\03. House Party.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\03. House Party\obj\Debug\netcoreapp3.1\03. House Party.genruntimeconfig.cache

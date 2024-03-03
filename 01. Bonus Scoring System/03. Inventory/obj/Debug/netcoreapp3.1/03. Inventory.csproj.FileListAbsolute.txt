@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.exe
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.deps.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.dll
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\bin\Debug\netcoreapp3.1\03. Inventory.pdb
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.dll
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.pdb
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\03. Inventory\obj\Debug\netcoreapp3.1\03. Inventory.genruntimeconfig.cache

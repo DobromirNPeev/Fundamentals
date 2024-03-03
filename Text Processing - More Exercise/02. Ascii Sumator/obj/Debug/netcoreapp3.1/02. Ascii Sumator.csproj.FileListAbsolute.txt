@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\bin\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\02. Ascii Sumator\obj\Debug\netcoreapp3.1\02. Ascii Sumator.genruntimeconfig.cache

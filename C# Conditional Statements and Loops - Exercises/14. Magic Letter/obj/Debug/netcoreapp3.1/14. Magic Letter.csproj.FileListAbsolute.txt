@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.exe
+E:\VIsual Studio\Fundamentals\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.deps.json
+E:\VIsual Studio\Fundamentals\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.dll
+E:\VIsual Studio\Fundamentals\14. Magic Letter\bin\Debug\netcoreapp3.1\14. Magic Letter.pdb
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.dll
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.pdb
+E:\VIsual Studio\Fundamentals\14. Magic Letter\obj\Debug\netcoreapp3.1\14. Magic Letter.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\bin\Debug\netcoreapp3.1\3. Post Office.exe
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\bin\Debug\netcoreapp3.1\3. Post Office.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\bin\Debug\netcoreapp3.1\3. Post Office.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\bin\Debug\netcoreapp3.1\3. Post Office.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\bin\Debug\netcoreapp3.1\3. Post Office.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\bin\Debug\netcoreapp3.1\3. Post Office.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\3. Post Office\obj\Debug\netcoreapp3.1\3. Post Office.genruntimeconfig.cache

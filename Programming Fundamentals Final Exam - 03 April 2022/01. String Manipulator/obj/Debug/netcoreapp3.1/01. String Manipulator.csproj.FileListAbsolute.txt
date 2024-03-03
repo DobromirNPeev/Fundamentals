@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.exe
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.dll
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\bin\Debug\netcoreapp3.1\01. String Manipulator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.dll
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\01. String Manipulator\obj\Debug\netcoreapp3.1\01. String Manipulator.genruntimeconfig.cache

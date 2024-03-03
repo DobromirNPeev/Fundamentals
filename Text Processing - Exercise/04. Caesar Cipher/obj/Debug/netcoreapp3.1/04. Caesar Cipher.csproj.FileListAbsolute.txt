@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\bin\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\04. Caesar Cipher\obj\Debug\netcoreapp3.1\04. Caesar Cipher.genruntimeconfig.cache

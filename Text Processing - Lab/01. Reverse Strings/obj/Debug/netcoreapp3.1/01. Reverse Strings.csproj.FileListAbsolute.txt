@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\bin\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\01. Reverse Strings\obj\Debug\netcoreapp3.1\01. Reverse Strings.genruntimeconfig.cache

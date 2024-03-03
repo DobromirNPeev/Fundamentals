@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.exe
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.deps.json
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\bin\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.dll
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.pdb
+E:\VIsual Studio\Fundamentals\08. Triangle of Numbers\obj\Debug\netcoreapp3.1\08. Triangle of Numbers.genruntimeconfig.cache

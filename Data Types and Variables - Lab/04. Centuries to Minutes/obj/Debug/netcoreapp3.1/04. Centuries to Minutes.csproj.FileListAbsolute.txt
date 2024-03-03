@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.exe
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.deps.json
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\bin\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.dll
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.pdb
+E:\VIsual Studio\Fundamentals\04. Centuries to Minutes\obj\Debug\netcoreapp3.1\04. Centuries to Minutes.genruntimeconfig.cache

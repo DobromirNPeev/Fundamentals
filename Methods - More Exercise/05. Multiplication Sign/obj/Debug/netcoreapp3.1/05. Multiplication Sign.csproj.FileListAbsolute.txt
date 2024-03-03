@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.exe
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.deps.json
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.dll
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\bin\Debug\netcoreapp3.1\05. Multiplication Sign.pdb
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.dll
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.pdb
+E:\VIsual Studio\Fundamentals\05. Multiplication Sign\obj\Debug\netcoreapp3.1\05. Multiplication Sign.genruntimeconfig.cache

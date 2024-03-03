@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.exe
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.deps.json
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.dll
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\bin\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.dll
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.pdb
+E:\VIsual Studio\Fundamentals\10. Rage Expenses\obj\Debug\netcoreapp3.1\10. Rage Expenses.genruntimeconfig.cache

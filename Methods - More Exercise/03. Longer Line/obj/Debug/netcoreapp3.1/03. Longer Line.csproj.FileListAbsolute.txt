@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.exe
+E:\VIsual Studio\Fundamentals\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.deps.json
+E:\VIsual Studio\Fundamentals\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.dll
+E:\VIsual Studio\Fundamentals\03. Longer Line\bin\Debug\netcoreapp3.1\03. Longer Line.pdb
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.dll
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.pdb
+E:\VIsual Studio\Fundamentals\03. Longer Line\obj\Debug\netcoreapp3.1\03. Longer Line.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\bin\Debug\netcoreapp3.1\01. Choose a Drink.exe
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\bin\Debug\netcoreapp3.1\01. Choose a Drink.deps.json
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\bin\Debug\netcoreapp3.1\01. Choose a Drink.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\bin\Debug\netcoreapp3.1\01. Choose a Drink.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\bin\Debug\netcoreapp3.1\01. Choose a Drink.dll
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\bin\Debug\netcoreapp3.1\01. Choose a Drink.pdb
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.dll
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.pdb
+E:\VIsual Studio\Fundamentals\01. Choose a Drink\obj\Debug\netcoreapp3.1\01. Choose a Drink.genruntimeconfig.cache

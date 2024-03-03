@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.exe
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.deps.json
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\bin\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.dll
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.pdb
+E:\VIsual Studio\Fundamentals\09. Palindrome Integers\obj\Debug\netcoreapp3.1\09. Palindrome Integers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.exe
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.deps.json
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.dll
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\bin\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.dll
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.pdb
+E:\VIsual Studio\Fundamentals\05. Decrypting Message\obj\Debug\netcoreapp3.1\05. Decrypting Message.genruntimeconfig.cache

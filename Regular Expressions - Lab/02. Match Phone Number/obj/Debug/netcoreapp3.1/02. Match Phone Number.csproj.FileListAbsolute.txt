@@ -1,0 +1,14 @@
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.exe
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.deps.json
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.json
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.runtimeconfig.dev.json
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.dll
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\bin\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.AssemblyReference.cache
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfoInputs.cache
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.AssemblyInfo.cs
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.csproj.CoreCompileInputs.cache
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.dll
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.pdb
+D:\VIsual Studio Assignments (softuni)\Fundamentals\Regular Expressions - Lab\02. Match Phone Number\obj\Debug\netcoreapp3.1\02. Match Phone Number.genruntimeconfig.cache

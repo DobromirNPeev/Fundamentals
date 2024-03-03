@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.exe
+E:\VIsual Studio\Fundamentals\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.deps.json
+E:\VIsual Studio\Fundamentals\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.dll
+E:\VIsual Studio\Fundamentals\08. Town Info\bin\Debug\netcoreapp3.1\08. Town Info.pdb
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.dll
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.pdb
+E:\VIsual Studio\Fundamentals\08. Town Info\obj\Debug\netcoreapp3.1\08. Town Info.genruntimeconfig.cache

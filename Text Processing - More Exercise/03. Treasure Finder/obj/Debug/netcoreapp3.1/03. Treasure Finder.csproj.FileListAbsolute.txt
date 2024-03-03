@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\bin\Debug\netcoreapp3.1\03. Treasure Finder.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\03. Treasure Finder\obj\Debug\netcoreapp3.1\03. Treasure Finder.genruntimeconfig.cache

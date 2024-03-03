@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.exe
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.deps.json
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\bin\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.dll
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.pdb
+E:\VIsual Studio\Fundamentals\09. Greater of Two Values\obj\Debug\netcoreapp3.1\09. Greater of Two Values.genruntimeconfig.cache

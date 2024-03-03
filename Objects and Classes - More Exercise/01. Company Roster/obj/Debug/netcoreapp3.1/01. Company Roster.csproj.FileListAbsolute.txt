@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.exe
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.deps.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\bin\Debug\netcoreapp3.1\01. Company Roster.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\01. Company Roster\obj\Debug\netcoreapp3.1\01. Company Roster.genruntimeconfig.cache

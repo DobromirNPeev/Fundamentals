@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.exe
+E:\VIsual Studio\Fundamentals\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.deps.json
+E:\VIsual Studio\Fundamentals\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\VIsual Studio\Fundamentals\06. Equal Sum\bin\Debug\netcoreapp3.1\06. Equal Sum.pdb
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.dll
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.pdb
+E:\VIsual Studio\Fundamentals\06. Equal Sum\obj\Debug\netcoreapp3.1\06. Equal Sum.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\bin\Debug\netcoreapp3.1\01. Train lists.exe
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\bin\Debug\netcoreapp3.1\01. Train lists.deps.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\bin\Debug\netcoreapp3.1\01. Train lists.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\bin\Debug\netcoreapp3.1\01. Train lists.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\bin\Debug\netcoreapp3.1\01. Train lists.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\bin\Debug\netcoreapp3.1\01. Train lists.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\01. Train lists\obj\Debug\netcoreapp3.1\01. Train lists.genruntimeconfig.cache

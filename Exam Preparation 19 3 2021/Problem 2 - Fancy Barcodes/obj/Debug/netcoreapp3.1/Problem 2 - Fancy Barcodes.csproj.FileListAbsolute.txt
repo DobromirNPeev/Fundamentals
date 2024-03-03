@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\bin\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\bin\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\bin\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\bin\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\bin\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\bin\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 2 - Fancy Barcodes\obj\Debug\netcoreapp3.1\Problem 2 - Fancy Barcodes.genruntimeconfig.cache

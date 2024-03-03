@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\bin\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.genruntimeconfig.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\03. Plant Discovery\obj\Debug\netcoreapp3.1\03. Plant Discovery.csproj.AssemblyReference.cache

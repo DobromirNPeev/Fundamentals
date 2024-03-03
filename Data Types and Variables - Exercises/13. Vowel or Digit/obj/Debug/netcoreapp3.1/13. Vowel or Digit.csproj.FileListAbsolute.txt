@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.exe
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.deps.json
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.dll
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\bin\Debug\netcoreapp3.1\13. Vowel or Digit.pdb
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.dll
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.pdb
+E:\VIsual Studio\Fundamentals\13. Vowel or Digit\obj\Debug\netcoreapp3.1\13. Vowel or Digit.genruntimeconfig.cache

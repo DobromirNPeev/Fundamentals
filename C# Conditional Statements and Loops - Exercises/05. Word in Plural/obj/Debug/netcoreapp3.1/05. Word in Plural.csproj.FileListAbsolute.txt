@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.exe
+E:\VIsual Studio\Fundamentals\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.deps.json
+E:\VIsual Studio\Fundamentals\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.dll
+E:\VIsual Studio\Fundamentals\05. Word in Plural\bin\Debug\netcoreapp3.1\05. Word in Plural.pdb
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.dll
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.pdb
+E:\VIsual Studio\Fundamentals\05. Word in Plural\obj\Debug\netcoreapp3.1\05. Word in Plural.genruntimeconfig.cache

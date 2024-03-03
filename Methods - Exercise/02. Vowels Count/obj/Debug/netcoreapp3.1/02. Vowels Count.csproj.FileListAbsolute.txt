@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.exe
+E:\VIsual Studio\Fundamentals\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.deps.json
+E:\VIsual Studio\Fundamentals\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\VIsual Studio\Fundamentals\02. Vowels Count\bin\Debug\netcoreapp3.1\02. Vowels Count.pdb
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.dll
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.pdb
+E:\VIsual Studio\Fundamentals\02. Vowels Count\obj\Debug\netcoreapp3.1\02. Vowels Count.genruntimeconfig.cache

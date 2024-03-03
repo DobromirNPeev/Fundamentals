@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.exe
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\bin\Debug\netcoreapp3.1\04. Star Enigma.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\04. Star Enigma\obj\Debug\netcoreapp3.1\04. Star Enigma.genruntimeconfig.cache

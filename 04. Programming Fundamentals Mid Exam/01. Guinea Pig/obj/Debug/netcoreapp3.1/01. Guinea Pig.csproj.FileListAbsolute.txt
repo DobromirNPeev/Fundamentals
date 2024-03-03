@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.exe
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.deps.json
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.dll
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\bin\Debug\netcoreapp3.1\01. Guinea Pig.pdb
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.dll
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.pdb
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\01. Guinea Pig\obj\Debug\netcoreapp3.1\01. Guinea Pig.genruntimeconfig.cache

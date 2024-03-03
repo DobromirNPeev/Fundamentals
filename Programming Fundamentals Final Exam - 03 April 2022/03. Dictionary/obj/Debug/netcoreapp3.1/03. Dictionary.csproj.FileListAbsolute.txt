@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\bin\Debug\netcoreapp3.1\03. Dictionary.exe
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\bin\Debug\netcoreapp3.1\03. Dictionary.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\bin\Debug\netcoreapp3.1\03. Dictionary.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\bin\Debug\netcoreapp3.1\03. Dictionary.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\bin\Debug\netcoreapp3.1\03. Dictionary.dll
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\bin\Debug\netcoreapp3.1\03. Dictionary.pdb
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.dll
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.pdb
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\03. Dictionary\obj\Debug\netcoreapp3.1\03. Dictionary.genruntimeconfig.cache

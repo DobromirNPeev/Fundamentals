@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.exe
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.deps.json
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\bin\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.dll
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.pdb
+E:\VIsual Studio\Fundamentals\06. Triples of Latin Letters\obj\Debug\netcoreapp3.1\06. Triples of Latin Letters.genruntimeconfig.cache

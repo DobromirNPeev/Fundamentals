@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.exe
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.deps.json
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.dll
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\bin\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.dll
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.pdb
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.genruntimeconfig.cache
+E:\VIsual Studio\Fundamentals\04. Fold and Sum\obj\Debug\netcoreapp3.1\04. Fold and Sum.csproj.AssemblyReference.cache

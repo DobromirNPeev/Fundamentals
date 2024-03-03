@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\bin\Debug\netcoreapp3.1\Problem 3 - P!rates.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\bin\Debug\netcoreapp3.1\Problem 3 - P!rates.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\bin\Debug\netcoreapp3.1\Problem 3 - P!rates.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\bin\Debug\netcoreapp3.1\Problem 3 - P!rates.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\bin\Debug\netcoreapp3.1\Problem 3 - P!rates.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\bin\Debug\netcoreapp3.1\Problem 3 - P!rates.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 19 3 2021\Problem 3 - P!rates\obj\Debug\netcoreapp3.1\Problem 3 - P!rates.genruntimeconfig.cache

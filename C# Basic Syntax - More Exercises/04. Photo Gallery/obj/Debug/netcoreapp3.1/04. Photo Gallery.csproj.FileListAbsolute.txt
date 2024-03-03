@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.exe
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.deps.json
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.dll
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\bin\Debug\netcoreapp3.1\04. Photo Gallery.pdb
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.dll
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.pdb
+E:\VIsual Studio\Fundamentals\04. Photo Gallery\obj\Debug\netcoreapp3.1\04. Photo Gallery.genruntimeconfig.cache

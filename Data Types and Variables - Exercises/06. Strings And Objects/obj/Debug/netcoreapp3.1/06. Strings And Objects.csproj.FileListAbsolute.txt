@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\bin\Debug\netcoreapp3.1\06. Strings And Objects.exe
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\bin\Debug\netcoreapp3.1\06. Strings And Objects.deps.json
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\bin\Debug\netcoreapp3.1\06. Strings And Objects.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\bin\Debug\netcoreapp3.1\06. Strings And Objects.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\bin\Debug\netcoreapp3.1\06. Strings And Objects.dll
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\bin\Debug\netcoreapp3.1\06. Strings And Objects.pdb
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.dll
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.pdb
+E:\VIsual Studio\Fundamentals\06. Strings And Objects\obj\Debug\netcoreapp3.1\06. Strings And Objects.genruntimeconfig.cache

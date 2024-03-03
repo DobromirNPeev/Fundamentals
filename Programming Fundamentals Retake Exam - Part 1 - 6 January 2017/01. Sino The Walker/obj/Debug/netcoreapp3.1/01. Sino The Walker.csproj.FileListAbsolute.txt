@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.exe
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.deps.json
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.runtimeconfig.json
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.dll
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\bin\Debug\netcoreapp3.1\01. Sino The Walker.pdb
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.dll
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.pdb
+E:\VIsual Studio Assignments\Programming Fundamentals Retake Exam - Part 1 - 6 January 2017\01. Sino The Walker\obj\Debug\netcoreapp3.1\01. Sino The Walker.genruntimeconfig.cache

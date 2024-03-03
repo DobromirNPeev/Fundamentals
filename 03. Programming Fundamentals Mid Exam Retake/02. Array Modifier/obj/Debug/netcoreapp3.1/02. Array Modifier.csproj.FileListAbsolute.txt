@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.exe
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.deps.json
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.dll
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\bin\Debug\netcoreapp3.1\02. Array Modifier.pdb
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.dll
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.pdb
+E:\VIsual Studio\Fundamentals\03. Programming Fundamentals Mid Exam Retake\02. Array Modifier\obj\Debug\netcoreapp3.1\02. Array Modifier.genruntimeconfig.cache

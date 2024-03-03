@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.exe
+E:\VIsual Studio\Fundamentals\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.deps.json
+E:\VIsual Studio\Fundamentals\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.dll
+E:\VIsual Studio\Fundamentals\08. Factorial Division\bin\Debug\netcoreapp3.1\08. Factorial Division.pdb
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.dll
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.pdb
+E:\VIsual Studio\Fundamentals\08. Factorial Division\obj\Debug\netcoreapp3.1\08. Factorial Division.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.exe
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.deps.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\bin\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\01. Advertisement Message\obj\Debug\netcoreapp3.1\01. Advertisement Message.genruntimeconfig.cache

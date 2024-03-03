@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.exe
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.deps.json
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.dll
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\bin\Debug\netcoreapp3.1\04. Tribonacci Sequence.pdb
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.dll
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.pdb
+E:\VIsual Studio\Fundamentals\04. Tribonacci Sequence\obj\Debug\netcoreapp3.1\04. Tribonacci Sequence.genruntimeconfig.cache

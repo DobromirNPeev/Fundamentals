@@ -1,0 +1,28 @@
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb
+E:\VIsual Studio\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.genruntimeconfig.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\bin\Debug\netcoreapp3.1\02. MuOnline.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam preparation\02. MuOnline\obj\Debug\netcoreapp3.1\02. MuOnline.genruntimeconfig.cache

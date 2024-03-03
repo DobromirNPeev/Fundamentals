@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.exe
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.deps.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\bin\Debug\netcoreapp3.1\10. SoftUni Course Planning.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\10. SoftUni Course Planning\obj\Debug\netcoreapp3.1\10. SoftUni Course Planning.genruntimeconfig.cache

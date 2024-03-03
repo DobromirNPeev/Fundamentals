@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.exe
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.deps.json
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.dll
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\bin\Debug\netcoreapp3.1\07. Training Hall Equipment.pdb
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.dll
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.pdb
+E:\VIsual Studio\Fundamentals\07. Training Hall Equipment\obj\Debug\netcoreapp3.1\07. Training Hall Equipment.genruntimeconfig.cache

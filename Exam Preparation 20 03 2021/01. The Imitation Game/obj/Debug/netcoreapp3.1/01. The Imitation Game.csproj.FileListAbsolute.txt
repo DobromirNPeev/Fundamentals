@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\bin\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. The Imitation Game\obj\Debug\netcoreapp3.1\01. The Imitation Game.genruntimeconfig.cache

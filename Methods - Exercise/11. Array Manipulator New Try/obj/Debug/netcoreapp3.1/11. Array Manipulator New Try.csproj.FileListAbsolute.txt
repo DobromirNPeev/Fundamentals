@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\bin\Debug\netcoreapp3.1\11. Array Manipulator New Try.exe
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\bin\Debug\netcoreapp3.1\11. Array Manipulator New Try.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\bin\Debug\netcoreapp3.1\11. Array Manipulator New Try.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\bin\Debug\netcoreapp3.1\11. Array Manipulator New Try.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\bin\Debug\netcoreapp3.1\11. Array Manipulator New Try.dll
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\bin\Debug\netcoreapp3.1\11. Array Manipulator New Try.pdb
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.dll
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.pdb
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator New Try\obj\Debug\netcoreapp3.1\11. Array Manipulator New Try.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.exe
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.deps.json
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.dll
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\bin\Debug\netcoreapp3.1\12. Rectangle Properties.pdb
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.dll
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.pdb
+E:\VIsual Studio\Fundamentals\12. Rectangle Properties\obj\Debug\netcoreapp3.1\12. Rectangle Properties.genruntimeconfig.cache

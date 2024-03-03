@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.exe
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.deps.json
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\bin\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.dll
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.pdb
+E:\VIsual Studio\Fundamentals\13. Holidays Between Two Dates\obj\Debug\netcoreapp3.1\13. Holidays Between Two Dates.genruntimeconfig.cache

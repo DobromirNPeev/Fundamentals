@@ -1,0 +1,28 @@
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.exe
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.deps.json
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.genruntimeconfig.cache
+E:\VIsual Studio\Fundamentals\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.exe
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\bin\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.dll
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.pdb
+E:\VIsual Studio Assignments\Fundamentals\Data Types and Variables - More Exercise\06. Balanced Brackets\obj\Debug\netcoreapp3.1\06. Balanced Brackets.genruntimeconfig.cache

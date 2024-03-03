@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.exe
+E:\VIsual Studio\Fundamentals\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.deps.json
+E:\VIsual Studio\Fundamentals\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.dll
+E:\VIsual Studio\Fundamentals\09. Chars to String\bin\Debug\netcoreapp3.1\09. Chars to String.pdb
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.dll
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.pdb
+E:\VIsual Studio\Fundamentals\09. Chars to String\obj\Debug\netcoreapp3.1\09. Chars to String.genruntimeconfig.cache

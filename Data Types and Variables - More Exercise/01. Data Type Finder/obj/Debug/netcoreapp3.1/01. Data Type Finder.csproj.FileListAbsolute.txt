@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.exe
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.deps.json
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\bin\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.dll
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.pdb
+E:\VIsual Studio\Fundamentals\01. Data Type Finder\obj\Debug\netcoreapp3.1\01. Data Type Finder.genruntimeconfig.cache

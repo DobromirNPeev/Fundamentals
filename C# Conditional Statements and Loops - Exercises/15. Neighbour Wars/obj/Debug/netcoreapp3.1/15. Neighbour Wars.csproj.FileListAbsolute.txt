@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\bin\Debug\netcoreapp3.1\15. Neighbour Wars.exe
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\bin\Debug\netcoreapp3.1\15. Neighbour Wars.deps.json
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\bin\Debug\netcoreapp3.1\15. Neighbour Wars.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\bin\Debug\netcoreapp3.1\15. Neighbour Wars.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\bin\Debug\netcoreapp3.1\15. Neighbour Wars.dll
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\bin\Debug\netcoreapp3.1\15. Neighbour Wars.pdb
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.dll
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.pdb
+E:\VIsual Studio\Fundamentals\15. Neighbour Wars\obj\Debug\netcoreapp3.1\15. Neighbour Wars.genruntimeconfig.cache

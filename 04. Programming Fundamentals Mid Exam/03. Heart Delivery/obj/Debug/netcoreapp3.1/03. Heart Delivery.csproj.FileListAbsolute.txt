@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.exe
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.deps.json
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.dll
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\bin\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.dll
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.pdb
+E:\VIsual Studio\Fundamentals\04. Programming Fundamentals Mid Exam\03. Heart Delivery\obj\Debug\netcoreapp3.1\03. Heart Delivery.genruntimeconfig.cache

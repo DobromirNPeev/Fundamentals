@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.exe
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.deps.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.dll
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\bin\Debug\netcoreapp3.1\03. Phone Shop.pdb
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.dll
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.pdb
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\03. Phone Shop\obj\Debug\netcoreapp3.1\03. Phone Shop.genruntimeconfig.cache

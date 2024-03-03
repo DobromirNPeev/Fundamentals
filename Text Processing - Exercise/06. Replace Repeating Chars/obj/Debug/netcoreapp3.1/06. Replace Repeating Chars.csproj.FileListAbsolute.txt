@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\bin\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\06. Replace Repeating Chars\obj\Debug\netcoreapp3.1\06. Replace Repeating Chars.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.exe
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.deps.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\bin\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\05. Bomb Numbers\obj\Debug\netcoreapp3.1\05. Bomb Numbers.genruntimeconfig.cache

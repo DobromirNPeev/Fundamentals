@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.exe
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.deps.json
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.dll
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\bin\Debug\netcoreapp3.1\02. Practice Floating Points.pdb
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.dll
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.pdb
+E:\VIsual Studio\Fundamentals\02. Practice Floating Points\obj\Debug\netcoreapp3.1\02. Practice Floating Points.genruntimeconfig.cache

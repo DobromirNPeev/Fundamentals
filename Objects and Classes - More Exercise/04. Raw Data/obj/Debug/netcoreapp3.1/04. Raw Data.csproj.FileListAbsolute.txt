@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.exe
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.deps.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\bin\Debug\netcoreapp3.1\04. Raw Data.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\04. Raw Data\obj\Debug\netcoreapp3.1\04. Raw Data.genruntimeconfig.cache

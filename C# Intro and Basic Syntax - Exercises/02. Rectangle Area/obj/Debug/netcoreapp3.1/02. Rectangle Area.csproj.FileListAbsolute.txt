@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\bin\Debug\netcoreapp3.1\02. Rectangle Area.exe
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\bin\Debug\netcoreapp3.1\02. Rectangle Area.deps.json
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\bin\Debug\netcoreapp3.1\02. Rectangle Area.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\bin\Debug\netcoreapp3.1\02. Rectangle Area.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\bin\Debug\netcoreapp3.1\02. Rectangle Area.dll
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\bin\Debug\netcoreapp3.1\02. Rectangle Area.pdb
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.dll
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.pdb
+E:\VIsual Studio\Fundamentals\02. Rectangle Area\obj\Debug\netcoreapp3.1\02. Rectangle Area.genruntimeconfig.cache

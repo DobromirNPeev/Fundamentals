@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.exe
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.deps.json
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\bin\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.dll
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.pdb
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\02. Shoot for the Win\obj\Debug\netcoreapp3.1\02. Shoot for the Win.genruntimeconfig.cache

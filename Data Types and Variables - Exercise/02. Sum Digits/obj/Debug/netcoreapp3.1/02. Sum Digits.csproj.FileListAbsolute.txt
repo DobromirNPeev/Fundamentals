@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.exe
+E:\VIsual Studio\Fundamentals\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.deps.json
+E:\VIsual Studio\Fundamentals\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.dll
+E:\VIsual Studio\Fundamentals\02. Sum Digits\bin\Debug\netcoreapp3.1\02. Sum Digits.pdb
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.dll
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.pdb
+E:\VIsual Studio\Fundamentals\02. Sum Digits\obj\Debug\netcoreapp3.1\02. Sum Digits.genruntimeconfig.cache

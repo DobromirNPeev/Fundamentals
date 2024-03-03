@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.exe
+E:\VIsual Studio\Fundamentals\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.deps.json
+E:\VIsual Studio\Fundamentals\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.dll
+E:\VIsual Studio\Fundamentals\01. Data Types\bin\Debug\netcoreapp3.1\01. Data Types.pdb
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.dll
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.pdb
+E:\VIsual Studio\Fundamentals\01. Data Types\obj\Debug\netcoreapp3.1\01. Data Types.genruntimeconfig.cache

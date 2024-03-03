@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.exe
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\bin\Debug\netcoreapp3.1\2. Rage Quit.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\2. Rage Quit\obj\Debug\netcoreapp3.1\2. Rage Quit.genruntimeconfig.cache

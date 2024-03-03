@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "11. Array Manipulator", "11. Array Manipulator.csproj", "{DB1D708F-7A20-40F7-A844-0ECD80554FC8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. Array Manipulator New Try", "..\11. Array Manipulator New Try\11. Array Manipulator New Try.csproj", "{FF5D8012-BAC0-480A-A6E7-38BBEFE4DFD5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DB1D708F-7A20-40F7-A844-0ECD80554FC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DB1D708F-7A20-40F7-A844-0ECD80554FC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DB1D708F-7A20-40F7-A844-0ECD80554FC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DB1D708F-7A20-40F7-A844-0ECD80554FC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF5D8012-BAC0-480A-A6E7-38BBEFE4DFD5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF5D8012-BAC0-480A-A6E7-38BBEFE4DFD5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF5D8012-BAC0-480A-A6E7-38BBEFE4DFD5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF5D8012-BAC0-480A-A6E7-38BBEFE4DFD5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {17E9C63E-7587-461A-8995-3A8E08FDCA69}
+	EndGlobalSection
+EndGlobal

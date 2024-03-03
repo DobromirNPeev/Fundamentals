@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.exe
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.deps.json
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.dll
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\bin\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.pdb
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.dll
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.pdb
+E:\VIsual Studio\Fundamentals\11. Refactor Volume of Pyramid\obj\Debug\netcoreapp3.1\11. Refactor Volume of Pyramid.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.exe
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.deps.json
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.dll
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\bin\Debug\netcoreapp3.1\04. Reverse Array of Strings.pdb
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.dll
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.pdb
+E:\VIsual Studio\Fundamentals\04. Reverse Array of Strings\obj\Debug\netcoreapp3.1\04. Reverse Array of Strings.genruntimeconfig.cache

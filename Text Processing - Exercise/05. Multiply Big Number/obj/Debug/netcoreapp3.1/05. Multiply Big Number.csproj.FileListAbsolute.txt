@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\bin\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\05. Multiply Big Number\obj\Debug\netcoreapp3.1\05. Multiply Big Number.genruntimeconfig.cache

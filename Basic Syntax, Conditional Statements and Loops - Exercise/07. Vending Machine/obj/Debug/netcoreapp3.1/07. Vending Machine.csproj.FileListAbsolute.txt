@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.exe
+E:\VIsual Studio\Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.deps.json
+E:\VIsual Studio\Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.dll
+E:\VIsual Studio\Fundamentals\07. Vending Machine\bin\Debug\netcoreapp3.1\07. Vending Machine.pdb
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.dll
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.pdb
+E:\VIsual Studio\Fundamentals\07. Vending Machine\obj\Debug\netcoreapp3.1\07. Vending Machine.genruntimeconfig.cache

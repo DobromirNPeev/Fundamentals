@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.exe
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.deps.json
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.dll
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\bin\Debug\netcoreapp3.1\03. Memory Game.pdb
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.dll
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.pdb
+E:\VIsual Studio\Fundamentals\Exam preparation\03. Memory Game\obj\Debug\netcoreapp3.1\03. Memory Game.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.exe
+E:\VIsual Studio\Fundamentals\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.deps.json
+E:\VIsual Studio\Fundamentals\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.dll
+E:\VIsual Studio\Fundamentals\02. Center Point\bin\Debug\netcoreapp3.1\02. Center Point.pdb
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.dll
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.pdb
+E:\VIsual Studio\Fundamentals\02. Center Point\obj\Debug\netcoreapp3.1\02. Center Point.genruntimeconfig.cache

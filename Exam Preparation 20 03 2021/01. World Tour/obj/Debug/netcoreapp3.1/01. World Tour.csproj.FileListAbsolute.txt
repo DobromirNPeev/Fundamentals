@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\bin\Debug\netcoreapp3.1\01. World Tour.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.genruntimeconfig.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\01. World Tour\obj\Debug\netcoreapp3.1\01. World Tour.csproj.AssemblyReference.cache

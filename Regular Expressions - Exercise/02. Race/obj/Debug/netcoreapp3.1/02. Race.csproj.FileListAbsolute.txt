@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.exe
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\bin\Debug\netcoreapp3.1\02. Race.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - Exercise\02. Race\obj\Debug\netcoreapp3.1\02. Race.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\bin\Debug\netcoreapp3.1\03. Miles to Kilometers.exe
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\bin\Debug\netcoreapp3.1\03. Miles to Kilometers.deps.json
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\bin\Debug\netcoreapp3.1\03. Miles to Kilometers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\bin\Debug\netcoreapp3.1\03. Miles to Kilometers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\bin\Debug\netcoreapp3.1\03. Miles to Kilometers.dll
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\bin\Debug\netcoreapp3.1\03. Miles to Kilometers.pdb
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.dll
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.pdb
+E:\VIsual Studio\Fundamentals\03. Miles to Kilometers\obj\Debug\netcoreapp3.1\03. Miles to Kilometers.genruntimeconfig.cache

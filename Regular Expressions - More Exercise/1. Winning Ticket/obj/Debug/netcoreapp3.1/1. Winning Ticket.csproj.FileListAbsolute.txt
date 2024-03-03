@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.exe
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\bin\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.dll
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.pdb
+E:\VIsual Studio Assignments\Fundamentals\Regular Expressions - More Exercise\1. Winning Ticket\obj\Debug\netcoreapp3.1\1. Winning Ticket.genruntimeconfig.cache

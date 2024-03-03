@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.exe
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.dll
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\bin\Debug\netcoreapp3.1\07. Student Academy.pdb
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.dll
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.pdb
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - Exercise\07. Student Academy\obj\Debug\netcoreapp3.1\07. Student Academy.genruntimeconfig.cache

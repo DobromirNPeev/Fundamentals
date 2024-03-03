@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.exe
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.deps.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\bin\Debug\netcoreapp3.1\02. Oldest Family Member.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\02. Oldest Family Member\obj\Debug\netcoreapp3.1\02. Oldest Family Member.genruntimeconfig.cache

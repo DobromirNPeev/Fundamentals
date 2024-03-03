@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.exe
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.deps.json
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.dll
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\bin\Debug\netcoreapp3.1\14. Integer to Hex and Binary.pdb
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.dll
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.pdb
+E:\VIsual Studio\Fundamentals\14. Integer to Hex and Binary\obj\Debug\netcoreapp3.1\14. Integer to Hex and Binary.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.exe
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.deps.json
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.dll
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\bin\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.dll
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.pdb
+E:\VIsual Studio\Fundamentals\10. Multiplication Table\obj\Debug\netcoreapp3.1\10. Multiplication Table.genruntimeconfig.cache

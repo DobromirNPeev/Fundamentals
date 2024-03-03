@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.exe
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.deps.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.dll
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\bin\Debug\netcoreapp3.1\02. Friend List Maintenance.pdb
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.dll
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.pdb
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\02. Friend List Maintenance\obj\Debug\netcoreapp3.1\02. Friend List Maintenance.genruntimeconfig.cache

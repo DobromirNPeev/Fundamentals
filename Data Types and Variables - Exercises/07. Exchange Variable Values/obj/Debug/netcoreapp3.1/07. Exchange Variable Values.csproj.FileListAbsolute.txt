@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.exe
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.deps.json
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.dll
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\bin\Debug\netcoreapp3.1\07. Exchange Variable Values.pdb
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.dll
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.pdb
+E:\VIsual Studio\Fundamentals\07. Exchange Variable Values\obj\Debug\netcoreapp3.1\07. Exchange Variable Values.genruntimeconfig.cache

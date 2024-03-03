@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\bin\Debug\netcoreapp3.1\04. Variable in Hex Format.exe
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\bin\Debug\netcoreapp3.1\04. Variable in Hex Format.deps.json
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\bin\Debug\netcoreapp3.1\04. Variable in Hex Format.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\bin\Debug\netcoreapp3.1\04. Variable in Hex Format.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\bin\Debug\netcoreapp3.1\04. Variable in Hex Format.dll
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\bin\Debug\netcoreapp3.1\04. Variable in Hex Format.pdb
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.dll
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.pdb
+E:\VIsual Studio\Fundamentals\04. Variable in Hex Format\obj\Debug\netcoreapp3.1\04. Variable in Hex Format.genruntimeconfig.cache

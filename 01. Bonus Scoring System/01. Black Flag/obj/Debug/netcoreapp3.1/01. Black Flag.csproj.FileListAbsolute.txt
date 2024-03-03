@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.exe
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.deps.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.dll
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\bin\Debug\netcoreapp3.1\01. Black Flag.pdb
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.dll
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.pdb
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\01. Black Flag\obj\Debug\netcoreapp3.1\01. Black Flag.genruntimeconfig.cache

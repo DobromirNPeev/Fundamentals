@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.exe
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.deps.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\bin\Debug\netcoreapp3.1\04. List Operations.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.dll
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.pdb
+E:\VIsual Studio\Fundamentals\Lists - Exercise\04. List Operations\obj\Debug\netcoreapp3.1\04. List Operations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.exe
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.deps.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\bin\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.dll
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.pdb
+E:\VIsual Studio Assignments\Fundamentals\01. Bonus Scoring System\05. Programming Fundamentals Mid Exam\obj\Debug\netcoreapp3.1\01. Bonus Scoring System.genruntimeconfig.cache

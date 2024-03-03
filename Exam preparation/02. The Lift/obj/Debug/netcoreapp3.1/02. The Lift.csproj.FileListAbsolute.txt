@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.exe
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.deps.json
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.dll
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\bin\Debug\netcoreapp3.1\02. The Lift.pdb
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.dll
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.pdb
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.genruntimeconfig.cache
+E:\VIsual Studio\Fundamentals\Exam preparation\02. The Lift\obj\Debug\netcoreapp3.1\02. The Lift.csproj.AssemblyReference.cache

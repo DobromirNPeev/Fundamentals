@@ -1,0 +1,5 @@
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Methods - Exercise\11. Array Manipulator\obj\Debug\netcoreapp3.1\11. Array Manipulator.csproj.CoreCompileInputs.cache

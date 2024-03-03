@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.exe
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.deps.json
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.dll
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\bin\Debug\netcoreapp3.1\04. Refactoring Prime Checker.pdb
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.dll
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.pdb
+E:\VIsual Studio\Fundamentals\04. Refactoring Prime Checker\obj\Debug\netcoreapp3.1\04. Refactoring Prime Checker.genruntimeconfig.cache

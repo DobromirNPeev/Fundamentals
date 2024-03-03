@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.exe
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.deps.json
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.dll
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\bin\Debug\netcoreapp3.1\02. English Name of the Last Digit.pdb
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.dll
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.pdb
+E:\VIsual Studio\Fundamentals\02. English Name of the Last Digit\obj\Debug\netcoreapp3.1\02. English Name of the Last Digit.genruntimeconfig.cache

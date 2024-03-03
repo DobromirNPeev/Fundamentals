@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.exe
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.deps.json
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.dll
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\bin\Debug\netcoreapp3.1\04. Beverage Labels.pdb
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.dll
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.pdb
+E:\VIsual Studio\Fundamentals\04. Beverage Labels\obj\Debug\netcoreapp3.1\04. Beverage Labels.genruntimeconfig.cache

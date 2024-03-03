@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\bin\Debug\netcoreapp3.1\Problem 2 - Mirror Words.exe
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\bin\Debug\netcoreapp3.1\Problem 2 - Mirror Words.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\bin\Debug\netcoreapp3.1\Problem 2 - Mirror Words.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\bin\Debug\netcoreapp3.1\Problem 2 - Mirror Words.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\bin\Debug\netcoreapp3.1\Problem 2 - Mirror Words.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\bin\Debug\netcoreapp3.1\Problem 2 - Mirror Words.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.dll
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.pdb
+E:\VIsual Studio Assignments\Fundamentals\Exam Preparation 20 03 2021\Problem 2 - Mirror Words\obj\Debug\netcoreapp3.1\Problem 2 - Mirror Words.genruntimeconfig.cache

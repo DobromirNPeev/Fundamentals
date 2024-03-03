@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\bin\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - More Exercise\04. Morse Code Translator\obj\Debug\netcoreapp3.1\04. Morse Code Translator.genruntimeconfig.cache

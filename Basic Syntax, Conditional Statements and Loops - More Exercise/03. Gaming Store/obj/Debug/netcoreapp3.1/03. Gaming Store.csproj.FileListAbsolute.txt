@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.exe
+E:\VIsual Studio\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.deps.json
+E:\VIsual Studio\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.dll
+E:\VIsual Studio\Fundamentals\03. Gaming Store\bin\Debug\netcoreapp3.1\03. Gaming Store.pdb
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.dll
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.pdb
+E:\VIsual Studio\Fundamentals\03. Gaming Store\obj\Debug\netcoreapp3.1\03. Gaming Store.genruntimeconfig.cache

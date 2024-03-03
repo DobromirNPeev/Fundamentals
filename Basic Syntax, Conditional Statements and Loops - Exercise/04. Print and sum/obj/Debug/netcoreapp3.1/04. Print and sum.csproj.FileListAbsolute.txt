@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.exe
+E:\VIsual Studio\Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.deps.json
+E:\VIsual Studio\Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.dll
+E:\VIsual Studio\Fundamentals\04. Print and sum\bin\Debug\netcoreapp3.1\04. Print and sum.pdb
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.dll
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.pdb
+E:\VIsual Studio\Fundamentals\04. Print and sum\obj\Debug\netcoreapp3.1\04. Print and sum.genruntimeconfig.cache

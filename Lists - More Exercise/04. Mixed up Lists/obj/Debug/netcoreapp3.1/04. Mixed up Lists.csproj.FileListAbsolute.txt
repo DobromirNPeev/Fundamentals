@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.1\04. Mixed up Lists.exe
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.1\04. Mixed up Lists.deps.json
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.1\04. Mixed up Lists.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.1\04. Mixed up Lists.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.1\04. Mixed up Lists.dll
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\bin\Debug\netcoreapp3.1\04. Mixed up Lists.pdb
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.dll
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.pdb
+E:\VIsual Studio\Fundamentals\Lists - More Exercise\04. Mixed up Lists\obj\Debug\netcoreapp3.1\04. Mixed up Lists.genruntimeconfig.cache

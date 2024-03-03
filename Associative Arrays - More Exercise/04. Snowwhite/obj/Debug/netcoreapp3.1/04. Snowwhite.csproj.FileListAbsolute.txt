@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.exe
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.dll
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\bin\Debug\netcoreapp3.1\04. Snowwhite.pdb
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.dll
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.pdb
+E:\VIsual Studio Assignments\Fundamentals\Associative Arrays - More Exercise\04. Snowwhite\obj\Debug\netcoreapp3.1\04. Snowwhite.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.exe
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.deps.json
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.dll
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\bin\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.dll
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.pdb
+E:\VIsual Studio Assignments\Fundamentals\03. Programming Fundamentals Mid Exam Retake 27 03 2021\01. Counter-Strike\obj\Debug\netcoreapp3.1\01. Counter-Strike.genruntimeconfig.cache

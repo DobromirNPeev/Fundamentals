@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.exe
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.deps.json
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.dll
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\bin\Debug\netcoreapp3.1\11. Convert Speed Units.pdb
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.dll
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.pdb
+E:\VIsual Studio\Fundamentals\11. Convert Speed Units\obj\Debug\netcoreapp3.1\11. Convert Speed Units.genruntimeconfig.cache

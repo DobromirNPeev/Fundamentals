@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.exe
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.deps.json
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.dll
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\bin\Debug\netcoreapp3.1\05. Boolean Variable.pdb
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.dll
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.pdb
+E:\VIsual Studio\Fundamentals\05. Boolean Variable\obj\Debug\netcoreapp3.1\05. Boolean Variable.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.exe
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.dll
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\bin\Debug\netcoreapp3.1\02. Message Translator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.dll
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.pdb
+E:\VIsual Studio Assignments\Fundamentals\Programming Fundamentals Final Exam - 03 April 2022\02. Message Translator\obj\Debug\netcoreapp3.1\02. Message Translator.genruntimeconfig.cache

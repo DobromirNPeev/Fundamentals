@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.exe
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.deps.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\bin\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - Exercise\05. Teamwork Projects\obj\Debug\netcoreapp3.1\05. Teamwork Projects.genruntimeconfig.cache

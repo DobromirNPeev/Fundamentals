@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\bin\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Lab\05. Digits, Letters and Other\obj\Debug\netcoreapp3.1\05. Digits, Letters and Other.genruntimeconfig.cache

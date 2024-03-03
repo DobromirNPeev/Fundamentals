@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.exe
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.deps.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.dll
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\bin\Debug\netcoreapp3.1\01. The Biscuit Factory.pdb
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.dll
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.pdb
+E:\VIsual Studio\Fundamentals\Programming Fundamentals Mid Exam - 20 February 2022\01. The Biscuit Factory\obj\Debug\netcoreapp3.1\01. The Biscuit Factory.genruntimeconfig.cache

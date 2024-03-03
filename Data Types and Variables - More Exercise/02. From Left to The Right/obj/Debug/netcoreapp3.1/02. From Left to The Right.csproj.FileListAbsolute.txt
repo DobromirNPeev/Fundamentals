@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.exe
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.deps.json
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.dll
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\bin\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.dll
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.pdb
+E:\VIsual Studio\Fundamentals\02. From Left to The Right\obj\Debug\netcoreapp3.1\02. From Left to The Right.genruntimeconfig.cache

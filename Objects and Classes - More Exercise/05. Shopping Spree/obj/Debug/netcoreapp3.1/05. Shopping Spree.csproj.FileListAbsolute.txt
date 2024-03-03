@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.exe
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.deps.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\bin\Debug\netcoreapp3.1\05. Shopping Spree.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.dll
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.pdb
+E:\VIsual Studio\Fundamentals\Objects and Classes - More Exercise\05. Shopping Spree\obj\Debug\netcoreapp3.1\05. Shopping Spree.genruntimeconfig.cache

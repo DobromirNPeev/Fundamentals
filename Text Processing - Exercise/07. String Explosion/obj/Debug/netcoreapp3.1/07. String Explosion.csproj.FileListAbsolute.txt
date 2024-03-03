@@ -1,0 +1,13 @@
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.exe
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.deps.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\bin\Debug\netcoreapp3.1\07. String Explosion.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.dll
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.pdb
+E:\VIsual Studio Assignments\Fundamentals\Text Processing - Exercise\07. String Explosion\obj\Debug\netcoreapp3.1\07. String Explosion.genruntimeconfig.cache

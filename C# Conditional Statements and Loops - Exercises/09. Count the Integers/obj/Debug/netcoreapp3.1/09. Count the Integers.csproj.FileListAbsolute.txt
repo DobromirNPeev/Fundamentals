@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.exe
+E:\VIsual Studio\Fundamentals\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.deps.json
+E:\VIsual Studio\Fundamentals\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.dll
+E:\VIsual Studio\Fundamentals\09. Count the Integers\bin\Debug\netcoreapp3.1\09. Count the Integers.pdb
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.dll
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.pdb
+E:\VIsual Studio\Fundamentals\09. Count the Integers\obj\Debug\netcoreapp3.1\09. Count the Integers.genruntimeconfig.cache

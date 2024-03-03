@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\08. Employee Data\bin\Debug\netcoreapp3.1\08. Employee Data.exe
+E:\VIsual Studio\Fundamentals\08. Employee Data\bin\Debug\netcoreapp3.1\08. Employee Data.deps.json
+E:\VIsual Studio\Fundamentals\08. Employee Data\bin\Debug\netcoreapp3.1\08. Employee Data.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\08. Employee Data\bin\Debug\netcoreapp3.1\08. Employee Data.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\08. Employee Data\bin\Debug\netcoreapp3.1\08. Employee Data.dll
+E:\VIsual Studio\Fundamentals\08. Employee Data\bin\Debug\netcoreapp3.1\08. Employee Data.pdb
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.dll
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.pdb
+E:\VIsual Studio\Fundamentals\08. Employee Data\obj\Debug\netcoreapp3.1\08. Employee Data.genruntimeconfig.cache

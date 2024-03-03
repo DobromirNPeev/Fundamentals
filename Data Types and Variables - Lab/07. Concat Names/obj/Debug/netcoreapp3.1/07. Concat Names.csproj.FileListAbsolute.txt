@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.exe
+E:\VIsual Studio\Fundamentals\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.deps.json
+E:\VIsual Studio\Fundamentals\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.dll
+E:\VIsual Studio\Fundamentals\07. Concat Names\bin\Debug\netcoreapp3.1\07. Concat Names.pdb
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.dll
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.pdb
+E:\VIsual Studio\Fundamentals\07. Concat Names\obj\Debug\netcoreapp3.1\07. Concat Names.genruntimeconfig.cache

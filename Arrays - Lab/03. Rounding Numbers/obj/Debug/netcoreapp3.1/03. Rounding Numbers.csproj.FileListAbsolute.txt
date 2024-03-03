@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\bin\Debug\netcoreapp3.1\03. Rounding Numbers.exe
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\bin\Debug\netcoreapp3.1\03. Rounding Numbers.deps.json
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\bin\Debug\netcoreapp3.1\03. Rounding Numbers.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\bin\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\bin\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.dll
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.pdb
+E:\VIsual Studio\Fundamentals\02. Print Numbers in Reverse Order Array\obj\Debug\netcoreapp3.1\03. Rounding Numbers.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.exe
+E:\VIsual Studio\Fundamentals\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.deps.json
+E:\VIsual Studio\Fundamentals\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.dll
+E:\VIsual Studio\Fundamentals\08. Calories Counter\bin\Debug\netcoreapp3.1\08. Calories Counter.pdb
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.dll
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.pdb
+E:\VIsual Studio\Fundamentals\08. Calories Counter\obj\Debug\netcoreapp3.1\08. Calories Counter.genruntimeconfig.cache

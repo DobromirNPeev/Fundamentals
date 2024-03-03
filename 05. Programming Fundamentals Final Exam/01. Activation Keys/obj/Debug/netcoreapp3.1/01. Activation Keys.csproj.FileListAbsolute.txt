@@ -1,0 +1,14 @@
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.exe
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.deps.json
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.json
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.runtimeconfig.dev.json
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.dll
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\bin\Debug\netcoreapp3.1\01. Activation Keys.pdb
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.AssemblyReference.cache
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfoInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.AssemblyInfo.cs
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.csproj.CoreCompileInputs.cache
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.dll
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.pdb
+E:\VIsual Studio Assignments\Fundamentals\05. Programming Fundamentals Final Exam\01. Activation Keys\obj\Debug\netcoreapp3.1\01. Activation Keys.genruntimeconfig.cache

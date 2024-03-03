@@ -1,0 +1,13 @@
+E:\VIsual Studio\Fundamentals\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.exe
+E:\VIsual Studio\Fundamentals\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.deps.json
+E:\VIsual Studio\Fundamentals\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.dll
+E:\VIsual Studio\Fundamentals\10. Poke Mon\bin\Debug\netcoreapp3.1\10. Poke Mon.pdb
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.dll
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.pdb
+E:\VIsual Studio\Fundamentals\10. Poke Mon\obj\Debug\netcoreapp3.1\10. Poke Mon.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.exe
+E:\VIsual Studio\Fundamentals\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.deps.json
+E:\VIsual Studio\Fundamentals\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.dll
+E:\VIsual Studio\Fundamentals\03. Floating Equality\bin\Debug\netcoreapp3.1\03. Floating Equality.pdb
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.dll
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.pdb
+E:\VIsual Studio\Fundamentals\03. Floating Equality\obj\Debug\netcoreapp3.1\03. Floating Equality.genruntimeconfig.cache

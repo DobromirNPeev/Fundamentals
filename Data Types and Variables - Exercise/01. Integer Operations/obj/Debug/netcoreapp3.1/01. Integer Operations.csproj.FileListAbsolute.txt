@@ -1,0 +1,14 @@
+E:\VIsual Studio\Fundamentals\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.exe
+E:\VIsual Studio\Fundamentals\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.deps.json
+E:\VIsual Studio\Fundamentals\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.json
+E:\VIsual Studio\Fundamentals\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.runtimeconfig.dev.json
+E:\VIsual Studio\Fundamentals\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\VIsual Studio\Fundamentals\01. Integer Operations\bin\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.AssemblyReference.cache
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.GeneratedMSBuildEditorConfig.editorconfig
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfoInputs.cache
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.AssemblyInfo.cs
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.csproj.CoreCompileInputs.cache
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.dll
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.pdb
+E:\VIsual Studio\Fundamentals\01. Integer Operations\obj\Debug\netcoreapp3.1\01. Integer Operations.genruntimeconfig.cache
